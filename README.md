@@ -9,7 +9,7 @@ Our NFT Collection Creator is created by using the canvas api and node js.
 ## Installation
 
 ```sh
-git clone https://github.com/janubis/nft-collection-generator
+git clone https://github.com/4bizen/nft-collection-generator
 
 npm install
 ```
